@@ -16,3 +16,7 @@
 body {
     background-color: blue;
 }
+
+#wrapper {
+    width: 1000px; margin: 0 auto;
+}
